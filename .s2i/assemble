@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "Before assembling"
 
-cp -Rf /tmp/src/* ./
+cp -Rf /tmp/src/* /opt/
 
 
 /usr/libexec/s2i/assemble
