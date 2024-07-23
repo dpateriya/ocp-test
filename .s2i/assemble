@@ -14,5 +14,3 @@ else
 fi
 
 exit $rc
-
-cp -Rf /tmp/src/* /opt/
